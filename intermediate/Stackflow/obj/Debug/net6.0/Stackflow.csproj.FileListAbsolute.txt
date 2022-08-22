@@ -1,0 +1,15 @@
+D:\DEVELOPMENT\C#\intermediate\Stackflow\bin\Debug\net6.0\Stackflow.exe
+D:\DEVELOPMENT\C#\intermediate\Stackflow\bin\Debug\net6.0\Stackflow.deps.json
+D:\DEVELOPMENT\C#\intermediate\Stackflow\bin\Debug\net6.0\Stackflow.runtimeconfig.json
+D:\DEVELOPMENT\C#\intermediate\Stackflow\bin\Debug\net6.0\Stackflow.dll
+D:\DEVELOPMENT\C#\intermediate\Stackflow\bin\Debug\net6.0\Stackflow.pdb
+D:\DEVELOPMENT\C#\intermediate\Stackflow\obj\Debug\net6.0\Stackflow.csproj.AssemblyReference.cache
+D:\DEVELOPMENT\C#\intermediate\Stackflow\obj\Debug\net6.0\Stackflow.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEVELOPMENT\C#\intermediate\Stackflow\obj\Debug\net6.0\Stackflow.AssemblyInfoInputs.cache
+D:\DEVELOPMENT\C#\intermediate\Stackflow\obj\Debug\net6.0\Stackflow.AssemblyInfo.cs
+D:\DEVELOPMENT\C#\intermediate\Stackflow\obj\Debug\net6.0\Stackflow.csproj.CoreCompileInputs.cache
+D:\DEVELOPMENT\C#\intermediate\Stackflow\obj\Debug\net6.0\Stackflow.dll
+D:\DEVELOPMENT\C#\intermediate\Stackflow\obj\Debug\net6.0\refint\Stackflow.dll
+D:\DEVELOPMENT\C#\intermediate\Stackflow\obj\Debug\net6.0\Stackflow.pdb
+D:\DEVELOPMENT\C#\intermediate\Stackflow\obj\Debug\net6.0\Stackflow.genruntimeconfig.cache
+D:\DEVELOPMENT\C#\intermediate\Stackflow\obj\Debug\net6.0\ref\Stackflow.dll

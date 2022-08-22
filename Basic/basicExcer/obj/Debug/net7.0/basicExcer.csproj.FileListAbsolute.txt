@@ -1,0 +1,15 @@
+D:\DEVELOPMENT\C#\Basic\basicExcer\bin\Debug\net7.0\basicExcer.exe
+D:\DEVELOPMENT\C#\Basic\basicExcer\bin\Debug\net7.0\basicExcer.deps.json
+D:\DEVELOPMENT\C#\Basic\basicExcer\bin\Debug\net7.0\basicExcer.runtimeconfig.json
+D:\DEVELOPMENT\C#\Basic\basicExcer\bin\Debug\net7.0\basicExcer.dll
+D:\DEVELOPMENT\C#\Basic\basicExcer\bin\Debug\net7.0\basicExcer.pdb
+D:\DEVELOPMENT\C#\Basic\basicExcer\obj\Debug\net7.0\basicExcer.csproj.AssemblyReference.cache
+D:\DEVELOPMENT\C#\Basic\basicExcer\obj\Debug\net7.0\basicExcer.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEVELOPMENT\C#\Basic\basicExcer\obj\Debug\net7.0\basicExcer.AssemblyInfoInputs.cache
+D:\DEVELOPMENT\C#\Basic\basicExcer\obj\Debug\net7.0\basicExcer.AssemblyInfo.cs
+D:\DEVELOPMENT\C#\Basic\basicExcer\obj\Debug\net7.0\basicExcer.csproj.CoreCompileInputs.cache
+D:\DEVELOPMENT\C#\Basic\basicExcer\obj\Debug\net7.0\basicExcer.dll
+D:\DEVELOPMENT\C#\Basic\basicExcer\obj\Debug\net7.0\refint\basicExcer.dll
+D:\DEVELOPMENT\C#\Basic\basicExcer\obj\Debug\net7.0\basicExcer.pdb
+D:\DEVELOPMENT\C#\Basic\basicExcer\obj\Debug\net7.0\basicExcer.genruntimeconfig.cache
+D:\DEVELOPMENT\C#\Basic\basicExcer\obj\Debug\net7.0\ref\basicExcer.dll
