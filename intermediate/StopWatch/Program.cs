@@ -45,7 +45,7 @@ namespace StopWatch // Note: actual namespace depends on the project name.
     }
 
 
-    public class Program
+    class Program
     {
         static void Main(string[] args)
         {
